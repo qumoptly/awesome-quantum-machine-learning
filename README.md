@@ -4,6 +4,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
+[![Quantum Kernel](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Qantum%20Kernel%20Structure.jpg)](https://www.dwavesys.com/tutorials/background-reading-series/quantum-computing-primer)
+
+[![In Depth Physics Comparison](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/CompareDifferentConcepts.jpg)](https://patents.google.com/patent/US20060091375)
+
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -269,8 +274,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [microsoft](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/) - Microsoft Quantum Related Works
 * [Google2](https://research.googleblog.com/2009/12/machine-learning-with-quantum.html) - Google Quantum Machine Learning Blog
 * [BBC](http://www.bbc.co.uk/programmes/p052800h) - About Google Quantum Supremacy,IBM Quantum Computer and Microsoft Q
-                                                
-                                                
+* [Google Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU) - Latest 2019 Google Quantum Supremacy Achievement
+* [IBM Quantum Supremacy](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/) - IBM Talk on Quantum Supremacy as a Primer
+* [VICE on the fight](https://www.vice.com/en_in/article/vb5jxd/why-ibm-thinks-google-hasnt-achieved-quantum-supremacy) - IBM Message on Google Quantum Supremacy
+* [IBM Zurich Quantum Safe Cryptography](https://www.zurich.ibm.com/securityprivacy/quantumsafecryptography.html) - An interesting startup to replace all our Certificate Authority Via Cloud and IBM Q
+
 <a name="basics"></a>
 ## BASICS
 
@@ -656,6 +664,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [fathom computing](https://www.fathomcomputing.com/) -  A new concept to train the ai in a processor using light and quantum based concepts. soon products will be launch
 * [Alibaba Quantum Computing Cloud Service](https://www.alibabacloud.com/press-room/alibaba-cloud-and-cas-launch-one-of-the-worlds-most) -  Cloud Service to access 11 Bit Quantum Computing Processor
 * [Atomistic Machine Learning Project](https://github.com/atomistic-machine-learning) - Seems something Interesting with Deep Tensor Network for Quantum Chemistry Applications
+* [circQ and Google Works](https://ai.google/research/teams/applied-science/quantum/) - Google Top Efforts on Tools
+* [IBM Safe Cryptography on Cloud](https://www.sdxcentral.com/articles/news/ibm-drives-quantum-safe-cryptography-into-its-public-cloud/2019/08/) - IBM Started and Developing a Quantm Safe Cryptography to replace all our Certificate Authority via Cloud
+* [Google Tensor Network Open Source](https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html) - Google Started the Most Scientist Preferred Way To Use a Quantum Computer Circuit. Tensor Flow Which Makes Easy to Design the Network and Will Leave the Work Effect Of Gates, Processor Preparation and also going to tell the beauty of Maths
+* [Google Tensor Network Github](https://github.com/google/TensorNetwork) - Github Project of Google Tensor Network
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
@@ -931,7 +943,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 	* USA
 
-		* [University of Notre Damn](http://acms.nd.edu/research/)
+		* [University of Notre ***](http://acms.nd.edu/research/)
 
 
 <a name="quantumconsolidatedresearchpapers"></a>
@@ -939,6 +951,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 * [scirate](https://scirate.com/) - Plenty of Quantum Research Papers Available
 * [Peter Wittek](http://peterwittek.com/book.html) - Famous Researcher for the Quantum Machine Leanrning , Published a book in this topic
+* [Murphy Yuezhen Niu] (https://scholar.google.com/citations?user=0wJPxfkAAAAJ&hl=en) - A good researcher published some nice articles
 
 <a name="quantumconsolidatedresearchpapers"></a>
 ## Recent Quantum Updates forum ,pages and newsletter
@@ -947,6 +960,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [facebook Quantum Machine Learning](https://www.facebook.com/quantummachinelearning) - Running By me . Not that much good :). You can get some ideas
 * [Linkedlin Quantum Machine Learning](https://www.linkedin.com/groups/8592758) - A nice page running by experts. Can get plenty of ideas
 * [FOSDEM 2019 Quantum Talks](https://fosdem.org/2019/schedule/track/quantum_computing/) - A one day talk in fosdem 2019 with more than 10 research topics,tools and ideas
+* [FOSDEM 2020 Quantum Talks](https://fosdem.org/2020/schedule/track/quantum_computing/) - Live talk in fosdem 2020 with plenty new research topics,tools and ideas
 
 ### License
 
